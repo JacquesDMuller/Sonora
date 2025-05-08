@@ -40,4 +40,4 @@ Sonora é um aplicativo moderno de streaming de música que permite aos usuário
 - Next.js
 - React
 - Tailwind CSS
-- Supabase 
+- Supabase
